@@ -1,0 +1,136 @@
+.exchange-opportunities-section {
+  background-color: #f3f4f6;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.exchange-opportunities-sectioncontainer {
+  margin: 0 auto;
+
+}
+
+.exchange-opportunities-sectiontitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #FE5F55;
+  margin-bottom: 1.5rem;
+}
+
+.globohome {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.nuvemhome {
+  display: flex;
+  justify-content: center;
+  margin-top: -21rem;
+  margin-right: 20vh;
+  height: 9vh;
+  padding: 20vh;
+}
+
+.nuvemhome1 {
+  display: flex;
+  justify-content: center;
+  margin-top: -20rem;
+  margin-right: 10vh;
+  height: 9vh;
+  padding: 20vh;
+}
+
+
+
+.aviaoglobo {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  margin-top: -27rem;
+  height: 30vh;
+  padding: 20vh;
+  margin-right: 20vh;
+}
+
+
+
+.exchange-opportunities-sectiontext {
+  text-align: center;
+  color: #4b5563;
+  margin-bottom: 2rem;
+}
+
+.exchange-opportunities-sectiontext p {
+  margin-top: 0.5rem;
+}
+
+.exchange-opportunities-sectionoptions {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 14px;
+
+}
+
+.exchange-opportunities-sectionoptions-item {
+  background-color: #0F6DE7;
+  padding: 1rem;
+  color: #fff;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.exchange-opportunities-sectionoptions-item h3 {
+  font-size: 1.125rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.exchange-opportunities-sectioncta {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.exchange-opportunities-sectioncta-button {
+  background-color: #c2410c;
+  color: #771414;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+}
+
+.exchange-opportunities-sectioncta-button:hover {
+  background-color: #FE5F55;
+}
+
+h2 {
+  color: #FE5F55;
+
+}
+
+p {
+  color: #2A1E4E;
+  ;
+
+}
+
+.exchange-opportunities-section__cta-button {
+  display: inline-block;
+  background-color: #FE5F55;
+  color: #fff;
+  border-radius: 5em;
+  height: 40px;
+  width: 110px;
+}
+
+a {
+  padding-top: 2vh;
+}

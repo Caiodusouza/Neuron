@@ -1,0 +1,55 @@
+  .container{
+    background-image: url("./assets/fundo.png");
+    background-position: center;
+    background-size: cover;
+    width: 100vh;
+    height: auto;
+
+  }
+  .card {
+
+    padding: 2rem;
+    height: 79vh;
+    width: 175vh;
+   
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #3182ce;
+    /* margin-top: -15rem; */
+  
+  }
+  
+  .description {
+    color: #4a5568;
+    margin-bottom:5rem;
+  }
+  
+  .button {
+    background-color: #3182ce;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 9999px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #2b6cb0;
+  }
+  
+  .illustration {
+    position: relative;
+    display: flex;
+    bottom:15px;
+  }
+
+.Nuvem{
+    margin-top: -30vh;
+    margin-right: 1000vh;
+    height: 68vh;
+    width: 180vh;
+
+}
